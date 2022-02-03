@@ -70,16 +70,16 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rugved88&show_icons=true&hide_border=true" />
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: http://enbiomatric.in/rugved
+[course]: http://enbiomatric.in/rugved1
+[twitter]: https://twitter.com/rugved88
+[youtube]: https://www.youtube.com/channel/UCXXXXWBJXT_bVsKF8sBZDTg
+[instagram]: https://www.instagram.com/jarvis_004/
+[linkedin]: https://www.linkedin.com/in/rugved-chavan-9a09b3209/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
