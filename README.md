@@ -97,16 +97,22 @@ Looking at the future trend we have designed Smart AI Glasses that can be commer
 [<img align="left" alt="codeSTACKr.com" src="images/p3.png" />][website]
 System will Monitor Soil moisture and light intensity in real-time using moisture sensor and intensity sensor and their adjust to the levels suitable for plant. You can access all the parameters remotely.
 
-> Project 4: Universal Diseases Screening System (UDSS). (ML, Frontend, Flask)
+> Project 4: EnBioMatric.in (Flask, HTML, CSS)
+
+[<img align="left" alt="codeSTACKr.com" src="images/p4.png" />][website]
+[![Website](http://img.shields.io/website?label=enbiomatric.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://enbiomatric.in)
+
+
+> Project 5: Universal Diseases Screening System (UDSS). (ML, Frontend, Flask)
 
 This project aims to bring Universal Diseases Screening System to all citizens. This project is envisaged to bring all the medical records and history to one common platform. So that proper diagnosis of the illness is achieved with very little or no trouble. we are using Deep Learning and Machine Learning algorithms to detect and diagnose diseases based on lab reports. User can upload Chest X-ray Images/CT-Scan to detect Covid-19, Pneunmonia or Brain Tumor.
 
-> Project 5: Restaurant Management System (Frontend, Mysql, Node.js)
+> Project 6: Restaurant Management System (Frontend, Mysql, Node.js)
 
 
 Restaurant Management System was designed for managing customer names, bills, time of transactions and available food items. This system will get installed on the restaurant counter by giving a user interface on website. Further to give more analytical data to the owner, system will also provide data like which is the highest selling food item, today's total money collected, this month total money collected etc. Data generated at the database per day is huge, to solve this problem we will be using big data for storage. Further to get predictions about what will be tomorrows total, next month total etc, tensorflow.js is implemented for machine learning algorithms.
 
-> Project 6: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
+> Project 7: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
 
 * [<img align="center" alt="codeSTACKr.com" src="images/p6i.png" />][website]
 
@@ -119,7 +125,7 @@ Restaurant Management System was designed for managing customer names, bills, ti
 * R.O.S techonlogy with smart room maping and multiple robot control
 
 
-> Project 7: Smart Dustbin (IoT -Arduino)
+> Project 8: Smart Dustbin (IoT -Arduino)
 > 
 [<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />][website]
 
