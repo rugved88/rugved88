@@ -109,7 +109,7 @@ This project aims to bring Universal Diseases Screening System to all citizens. 
 
 > Project 6: Restaurant Management System (Frontend, Mysql, Node.js)
 
-
+[<img align="left" alt="codeSTACKr.com" src="images/p5.png" />][website]
 Restaurant Management System was designed for managing customer names, bills, time of transactions and available food items. This system will get installed on the restaurant counter by giving a user interface on website. Further to give more analytical data to the owner, system will also provide data like which is the highest selling food item, today's total money collected, this month total money collected etc. Data generated at the database per day is huge, to solve this problem we will be using big data for storage. Further to get predictions about what will be tomorrows total, next month total etc, tensorflow.js is implemented for machine learning algorithms.
 
 > Project 7: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
