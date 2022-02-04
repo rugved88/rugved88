@@ -108,20 +108,20 @@ Restaurant Management System was designed for managing customer names, bills, ti
 
 > Project 6: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
 
-[<img align="left" alt="codeSTACKr.com" src="images/p6i.png" />][website]
+[<img align="center" height ='200px' alt="codeSTACKr.com" src="images/p6i.png" />][website]
 
-[<img align="left" alt="codeSTACKr.com" src="images/p6ii.png" />][website]
+[<img align="center" height ='200px' alt="codeSTACKr.com" src="images/p6ii.png" />][website]
 
-•Computer Vision Embeded for Owner detection
-•Voice Assistance
-•Temperature/Humidity/Smoke Sensors with Smart Notifications
-•Controls Smart Home Devices like smart lights, fans etc
-•R.O.S techonlogy with smart room maping and multiple robot control
+* Computer Vision Embeded for Owner detection
+* Voice Assistance
+* Temperature/Humidity/Smoke Sensors with Smart Notifications
+* Controls Smart Home Devices like smart lights, fans etc
+* R.O.S techonlogy with smart room maping and multiple robot control
 
-Mail me for Jarvis source code.
-and soon uploading cad designs of this robot on GrabCad Community.
 
 > Project 7: Smart Dustbin (IoT -Arduino)
+> 
+[<img align="left" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />][website]
 
 
 [website]: http://enbiomatric.in/rugved
