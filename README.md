@@ -129,7 +129,7 @@ Restaurant Management System was designed for managing customer names, bills, ti
 > Project 8: Smart Dustbin (IoT -Arduino)
 
 <p align="center">
-[<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />][website]
+<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />
 </p>
 
 # And Many More...
