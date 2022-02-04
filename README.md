@@ -123,6 +123,8 @@ Restaurant Management System was designed for managing customer names, bills, ti
 > 
 [<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />][website]
 
+# And Many More...
+## Want to know more about me follow me on instagram.
 
 [website]: http://enbiomatric.in/rugved
 [course]: http://enbiomatric.in/rugved1
