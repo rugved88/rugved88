@@ -78,30 +78,31 @@
 ---
 ## Projects:
 Public Repo
+> Project 1: Robot tracking via central monitoring system.
 <p align="left">
   <a href="https://github.com/rugved88/Robot-tracking-via-central-monitoring-system"><img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rugved88&repo=Robot-tracking-via-central-monitoring-system&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
 </p>
 
 Private Repos
 
-> Project 1: Smart AI Glasses (IoT, Computer Vision, Fusion 360)
+> Project 2: Smart AI Glasses (IoT, Computer Vision, Fusion 360)
 
 Looking at the future trend we have designed Smart AI Glasses that can be commercialized or can be used in a highly restricted area for securing the area from untheorized identity. Features of our smart glasses are smart notifications, navigation assistance, a Health monitoring system, identity detections. The main motive of our project is to launch these glasses at an affordable price with high reliability.
 
 
-> Project 2: Plant Health Monitoring System. (IoT)
+> Project 3: Plant Health Monitoring System. (IoT)
 
 System will Monitor Soil moisture and light intensity in real-time using moisture sensor and intensity sensor and their adjust to the levels suitable for plant. You can access all the parameters remotely.
 
-> Project 3: Unified Health Care System. (ML, Frontend, Flask)
+> Project 4: Unified Health Care System. (ML, Frontend, Flask)
 
 This project aims to bring Unified Healthcare System to all citizens. This project is envisaged to bring all the medical records and history to one common platform. So that proper diagnosis of the illness is achieved with very little or no trouble. we are using Deep Learning and Machine Learning algorithms to detect and diagnose diseases based on lab reports. User can upload Chest X-ray Images/CT-Scan to detect Covid-19, Pneunmonia or Brain Tumor.
 
-> Project 4: Restaurant Management System (Frontend, Mysql, Node.js)
+> Project 5: Restaurant Management System (Frontend, Mysql, Node.js)
 
 Restaurant Management System was designed for managing customer names, bills, time of transactions and available food items. This system will get installed on the restaurant counter by giving a user interface on website. Further to give more analytical data to the owner, system will also provide data like which is the highest selling food item, today's total money collected, this month total money collected etc. Data generated at the database per day is huge, to solve this problem we will be using big data for storage. Further to get predictions about what will be tomorrows total, next month total etc, tensorflow.js is implemented for machine learning algorithms.
 
-> Project 5: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
+> Project 6: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
 
 
 
