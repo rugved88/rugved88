@@ -121,7 +121,7 @@ Restaurant Management System was designed for managing customer names, bills, ti
 
 > Project 7: Smart Dustbin (IoT -Arduino)
 > 
-[<img align="left" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />][website]
+[<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />][website]
 
 
 [website]: http://enbiomatric.in/rugved
