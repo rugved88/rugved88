@@ -87,11 +87,14 @@ Private Repos
 
 > Project 2: Smart AI Glasses (IoT, Computer Vision, Fusion 360)
 
+[<img align="left" alt="codeSTACKr.com" src="images/p2.jpeg" />][website]
+
 Looking at the future trend we have designed Smart AI Glasses that can be commercialized or can be used in a highly restricted area for securing the area from untheorized identity. Features of our smart glasses are smart notifications, navigation assistance, a Health monitoring system, identity detections. The main motive of our project is to launch these glasses at an affordable price with high reliability.
 
 
 > Project 3: Plant Health Monitoring System. (IoT, Data Science, Web Dev)
 
+[<img align="left" alt="codeSTACKr.com" src="images/p3.png" />][website]
 System will Monitor Soil moisture and light intensity in real-time using moisture sensor and intensity sensor and their adjust to the levels suitable for plant. You can access all the parameters remotely.
 
 > Project 4: Universal Diseases Screening System (UDSS). (ML, Frontend, Flask)
@@ -100,9 +103,23 @@ This project aims to bring Universal Diseases Screening System to all citizens. 
 
 > Project 5: Restaurant Management System (Frontend, Mysql, Node.js)
 
+
 Restaurant Management System was designed for managing customer names, bills, time of transactions and available food items. This system will get installed on the restaurant counter by giving a user interface on website. Further to give more analytical data to the owner, system will also provide data like which is the highest selling food item, today's total money collected, this month total money collected etc. Data generated at the database per day is huge, to solve this problem we will be using big data for storage. Further to get predictions about what will be tomorrows total, next month total etc, tensorflow.js is implemented for machine learning algorithms.
 
 > Project 6: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
+
+[<img align="left" alt="codeSTACKr.com" src="images/p6i.png" />][website]
+
+[<img align="left" alt="codeSTACKr.com" src="images/p6ii.png" />][website]
+
+•Computer Vision Embeded for Owner detection
+•Voice Assistance
+•Temperature/Humidity/Smoke Sensors with Smart Notifications
+•Controls Smart Home Devices like smart lights, fans etc
+•R.O.S techonlogy with smart room maping and multiple robot control
+
+Mail me for Jarvis source code.
+and soon uploading cad designs of this robot on GrabCad Community.
 
 > Project 7: Smart Dustbin (IoT -Arduino)
 
