@@ -110,7 +110,7 @@ Restaurant Management System was designed for managing customer names, bills, ti
 
 [<img align="center" height ='200px' alt="codeSTACKr.com" src="images/p6i.png" />][website]
 
-[<img align="center" height ='200px' alt="codeSTACKr.com" src="images/p6ii.png" />][website]
+[<img align="right" height ='200px' alt="codeSTACKr.com" src="images/p6ii.png" />][website]
 
 * Computer Vision Embeded for Owner detection
 * Voice Assistance
