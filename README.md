@@ -114,9 +114,10 @@ Restaurant Management System was designed for managing customer names, bills, ti
 
 > Project 7: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
 
-* [<img align="center" alt="codeSTACKr.com" src="images/p6i.png" />][website]
-
-* [<img align="center" alt="codeSTACKr.com" src="images/p6ii.png" />][website]
+<p align="center">
+<img align="center" alt="codeSTACKr.com" src="images/p6i.png" />
+<img align="center" alt="codeSTACKr.com" src="images/p6ii.png" />
+</p>
 
 * Computer Vision Embeded for Owner detection
 * Voice Assistance
@@ -126,8 +127,10 @@ Restaurant Management System was designed for managing customer names, bills, ti
 
 
 > Project 8: Smart Dustbin (IoT -Arduino)
-> 
+
+<p align="center">
 [<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />][website]
+</p>
 
 # And Many More...
 ## Want to know more about me follow me on instagram.
