@@ -108,9 +108,9 @@ Restaurant Management System was designed for managing customer names, bills, ti
 
 > Project 6: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
 
-[<img align="center" height ='200px' alt="codeSTACKr.com" src="images/p6i.png" />][website]
+* [<img align="center" alt="codeSTACKr.com" src="images/p6i.png" />][website]
 
-[<img align="right" height ='200px' alt="codeSTACKr.com" src="images/p6ii.png" />][website]
+* [<img align="center" alt="codeSTACKr.com" src="images/p6ii.png" />][website]
 
 * Computer Vision Embeded for Owner detection
 * Voice Assistance
