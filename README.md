@@ -52,12 +52,24 @@
 ---
 ## Projects:
 <p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rugved88&repo=Robot-tracking-via-central-monitoring-system&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/rugved88/Robot-tracking-via-central-monitoring-system"><img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rugved88&repo=Robot-tracking-via-central-monitoring-system&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
 </p>
 
 ---
 ## Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rugved88)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rugved88&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=rugved88&theme=redical&bg_color=0B0826" width="100%"/>
+  </a>
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rugved88&theme=tokyonight"/>
+  </a>
+</p>
+
+
 
 
 [website]: http://enbiomatric.in/rugved
