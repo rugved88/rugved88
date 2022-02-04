@@ -90,13 +90,13 @@ Private Repos
 Looking at the future trend we have designed Smart AI Glasses that can be commercialized or can be used in a highly restricted area for securing the area from untheorized identity. Features of our smart glasses are smart notifications, navigation assistance, a Health monitoring system, identity detections. The main motive of our project is to launch these glasses at an affordable price with high reliability.
 
 
-> Project 3: Plant Health Monitoring System. (IoT)
+> Project 3: Plant Health Monitoring System. (IoT, Data Science, Web Dev)
 
 System will Monitor Soil moisture and light intensity in real-time using moisture sensor and intensity sensor and their adjust to the levels suitable for plant. You can access all the parameters remotely.
 
-> Project 4: Unified Health Care System. (ML, Frontend, Flask)
+> Project 4: Universal Diseases Screening System (UDSS). (ML, Frontend, Flask)
 
-This project aims to bring Unified Healthcare System to all citizens. This project is envisaged to bring all the medical records and history to one common platform. So that proper diagnosis of the illness is achieved with very little or no trouble. we are using Deep Learning and Machine Learning algorithms to detect and diagnose diseases based on lab reports. User can upload Chest X-ray Images/CT-Scan to detect Covid-19, Pneunmonia or Brain Tumor.
+This project aims to bring Universal Diseases Screening System to all citizens. This project is envisaged to bring all the medical records and history to one common platform. So that proper diagnosis of the illness is achieved with very little or no trouble. we are using Deep Learning and Machine Learning algorithms to detect and diagnose diseases based on lab reports. User can upload Chest X-ray Images/CT-Scan to detect Covid-19, Pneunmonia or Brain Tumor.
 
 > Project 5: Restaurant Management System (Frontend, Mysql, Node.js)
 
@@ -104,7 +104,7 @@ Restaurant Management System was designed for managing customer names, bills, ti
 
 > Project 6: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
 
-
+> Project 7: Smart Dustbin (IoT -Arduino)
 
 
 [website]: http://enbiomatric.in/rugved
