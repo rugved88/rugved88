@@ -1,4 +1,4 @@
-[<img align="center" alt="codeSTACKr.com" width="500px" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />][website]
+[<img align="center" alt="codeSTACKr.com" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />][website]
 
 ---
 # Hi there, I'm Rugved Chavan - aka [Jarvis08][website] 👋
@@ -77,9 +77,32 @@
 
 ---
 ## Projects:
+Public Repo
 <p align="left">
   <a href="https://github.com/rugved88/Robot-tracking-via-central-monitoring-system"><img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rugved88&repo=Robot-tracking-via-central-monitoring-system&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
 </p>
+
+Private Repos
+
+> Project 1: Smart AI Glasses (IoT, Computer Vision, Fusion 360)
+
+Looking at the future trend we have designed Smart AI Glasses that can be commercialized or can be used in a highly restricted area for securing the area from untheorized identity. Features of our smart glasses are smart notifications, navigation assistance, a Health monitoring system, identity detections. The main motive of our project is to launch these glasses at an affordable price with high reliability.
+
+
+> Project 2: Plant Health Monitoring System. (IoT)
+
+System will Monitor Soil moisture and light intensity in real-time using moisture sensor and intensity sensor and their adjust to the levels suitable for plant. You can access all the parameters remotely.
+
+> Project 3: Unified Health Care System. (ML, Frontend, Flask)
+
+This project aims to bring Unified Healthcare System to all citizens. This project is envisaged to bring all the medical records and history to one common platform. So that proper diagnosis of the illness is achieved with very little or no trouble. we are using Deep Learning and Machine Learning algorithms to detect and diagnose diseases based on lab reports. User can upload Chest X-ray Images/CT-Scan to detect Covid-19, Pneunmonia or Brain Tumor.
+
+> Project 4: Restaurant Management System (Frontend, Mysql, Node.js)
+
+Restaurant Management System was designed for managing customer names, bills, time of transactions and available food items. This system will get installed on the restaurant counter by giving a user interface on website. Further to give more analytical data to the owner, system will also provide data like which is the highest selling food item, today's total money collected, this month total money collected etc. Data generated at the database per day is huge, to solve this problem we will be using big data for storage. Further to get predictions about what will be tomorrows total, next month total etc, tensorflow.js is implemented for machine learning algorithms.
+
+> Project 5: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
+
 
 
 
