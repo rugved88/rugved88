@@ -57,7 +57,16 @@
 
 ---
 ## Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rugved88&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rugved88&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's github stats" />
+
+<!--   https://activity-graph.herokuapp.com/graph?username=ctrl-gaurav&theme=react-dark&bg_color=20232a -->
+<!--   theme=jolly&hide_border=true -->
+</p>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugved88&layout=compact&theme=tokyonight&count_private=true"/>
+  </a>
+</p>
 
 <p align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=rugved88&theme=redical&bg_color=0B0826" width="100%"/>
