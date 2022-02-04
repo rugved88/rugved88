@@ -51,11 +51,6 @@
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
----
-## Projects:
-<p align="left">
-  <a href="https://github.com/rugved88/Robot-tracking-via-central-monitoring-system"><img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rugved88&repo=Robot-tracking-via-central-monitoring-system&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
-</p>
 
 ---
 ## Stats:
@@ -80,6 +75,11 @@
   </a>
 </p>
 
+---
+## Projects:
+<p align="left">
+  <a href="https://github.com/rugved88/Robot-tracking-via-central-monitoring-system"><img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rugved88&repo=Robot-tracking-via-central-monitoring-system&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+</p>
 
 
 
