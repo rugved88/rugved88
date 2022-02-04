@@ -4,7 +4,7 @@
 # Hi there, I'm Rugved Chavan - aka [Jarvis08][website] 👋
 [![Website](https://img.shields.io/website?label=rugved.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://enbiomatric.in/rugved)
 
-### B.Tech in Computer and Communication Engineering from Manipal University Jaipur. I have several design patents (published) to my credit. I have completed my internships in major companies like Mahindra & Mahindra, and Bristlecone Inc. I have expertise in multiple interdisciplinary fields such as 3D design, web development, and automobiles. My research interest includes but not limited to Data Science, IoT, IMoT, IIoT, Robotics, Machine learning and Artificial intelligence etc. !!
+<div style="text-align: right">B.Tech in Computer and Communication Engineering from Manipal University Jaipur. I have several design patents (published) to my credit. I have completed my internships in major companies like Mahindra & Mahindra, and Bristlecone Inc. I have expertise in multiple interdisciplinary fields such as 3D design, web development, and automobiles. My research interest includes but not limited to Data Science, IoT, IMoT, IIoT, Robotics, Machine learning and Artificial intelligence etc. !!  </div>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other research scholars
