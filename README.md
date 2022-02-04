@@ -50,6 +50,9 @@
 ➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rugved88&repo=Robot-tracking-via-central-monitoring-system&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
+</p>
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rugved88)](https://github.com/anuraghazra/github-readme-stats)
