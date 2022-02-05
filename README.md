@@ -39,20 +39,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Robot Design | Cozmo Robot imitation | Forklift design Fusion 360](https://www.youtube.com/watch?v=Zsgi15xlaz4)
-- [Face Tracing Robot using Raspberry Pi | OpenCV | Computer Vision | Fusion 360](https://www.youtube.com/watch?v=jaQxsuHskcA)
-- [Google Voice Assistant on Raspberry Pi with custom commands and GPIO control](https://www.youtube.com/watch?v=czCzjse3aYU)
-- [How to design Complete Drone || Fusion 360 Design || Raspberry Pi4 Extension](https://www.youtube.com/watch?v=WWXdS_8P8mI)
-- [My Smart Glasses Prototype | Computer Vision | Raspberry Pi | Health Monitoring |  Navigation](https://www.youtube.com/watch?v=vUCeSoafPSc)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
-
----
 ## Stats:
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rugved88&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's github stats" />
@@ -74,6 +60,18 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rugved88&theme=tokyonight"/>
   </a>
 </p>
+---
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Robot Design | Cozmo Robot imitation | Forklift design Fusion 360](https://www.youtube.com/watch?v=Zsgi15xlaz4)
+- [Face Tracing Robot using Raspberry Pi | OpenCV | Computer Vision | Fusion 360](https://www.youtube.com/watch?v=jaQxsuHskcA)
+- [Google Voice Assistant on Raspberry Pi with custom commands and GPIO control](https://www.youtube.com/watch?v=czCzjse3aYU)
+- [How to design Complete Drone || Fusion 360 Design || Raspberry Pi4 Extension](https://www.youtube.com/watch?v=WWXdS_8P8mI)
+- [My Smart Glasses Prototype | Computer Vision | Raspberry Pi | Health Monitoring |  Navigation](https://www.youtube.com/watch?v=vUCeSoafPSc)
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 # Projects: [Highly recommended to watch Youtube videos!!]
