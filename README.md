@@ -76,7 +76,7 @@
 </p>
 
 ---
-# Projects:
+# Projects: [Highly recommended to watch Youtube videos!!]
 Public Repo
 > Project 1: Robot tracking via central monitoring system.
 <p align="left">
