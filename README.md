@@ -74,7 +74,7 @@
 - [Face Tracing Robot using Raspberry Pi | OpenCV | Computer Vision | Fusion 360](https://www.youtube.com/watch?v=jaQxsuHskcA)
 - [Google Voice Assistant on Raspberry Pi with custom commands and GPIO control](https://www.youtube.com/watch?v=czCzjse3aYU)
 - [How to design Complete Drone || Fusion 360 Design || Raspberry Pi4 Extension](https://www.youtube.com/watch?v=WWXdS_8P8mI)
-- [My Smart Glasses Prototype | Computer Vision | Raspberry Pi | Health Monitoring |  Navigation](https://www.youtube.com/watch?v=vUCeSoafPSc)
+- [The Robotic AI Arm Trailer || Raspberry pi project || Fusion 360 || Prototype](https://www.youtube.com/watch?v=E4nQwieZy8k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
