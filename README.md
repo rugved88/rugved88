@@ -88,13 +88,13 @@ Public Repo
 </p>
 
 Private Repos
-
+<!--
 > Project 2: Smart AI Glasses (IoT, Computer Vision, Fusion 360)
 
 [<img align="left" alt="codeSTACKr.com" src="images/p2.jpeg" />][website]
 
 Looking at the future trend we have designed Smart AI Glasses that can be commercialized or can be used in a highly restricted area for securing the area from untheorized identity. Features of our smart glasses are smart notifications, navigation assistance, a Health monitoring system, identity detections. The main motive of our project is to launch these glasses at an affordable price with high reliability.
-
+-->
 
 > Project 3: Plant Health Monitoring System. (IoT, Data Science, Web Dev)
 
