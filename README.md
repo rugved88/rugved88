@@ -1,8 +1,7 @@
 # Hi there, I'm Rugved Chavan - aka [Jarvis08][website] 👋
 [![Website](https://img.shields.io/website?label=rugved.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://rugved-app.herokuapp.com/)
 
-## Pursuing B.Tech in Computer and Communication Engineering from Manipal University Jaipur. I have several design patents (published) to my credit. I have completed my internships in major companies like Mahindra & Mahindra, and Bristlecone Inc. I have expertise in multiple interdisciplinary fields such as Artificial Intelligence, 3D designing, web development, and automobiles. My research interest includes but not limited to Data Science, IoT, IMoT, IIoT, Robotics, Machine learning etc. !!!
-
+## Aspiring AI / ML / IoT / Robotics Specialist Equipped with good technical skills, focused on providing optimized solutions to real-world problems. I have three design patents (published) and a high-impact factor journal paper to my credit. I have completed my internships in major companies like Mahindra, and Bristlecone Inc and as well as an academic internship at the National University of Singapore. I am a motivated individual seeking the position of IT Professional intern, intent on working in a challenging and dynamic environment that offers opportunities for growth. I have expertise in multiple interdisciplinary fields such as Artificial Intelligence, 3D designing, web development, and automobiles. My research interest includes but not limited to Data Science, IoT, IoMT, IIoT, Robotics, Machine learning etc. !!!
 
 ---
 <p align="center">
