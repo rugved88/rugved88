@@ -133,12 +133,12 @@ Restaurant Management System was designed for managing customer names, bills, ti
 
 
 > Project 8: Smart Dustbin (IoT -Arduino)
-Intelligent Garbage Bin Using Arduino, Ultrasonic Sensor, and Servo Motor
-When a person wants to dispose of trash in a garbage can, the garbage can's lid will open automatically and without human intervention.
 
-In this Corona pandemic, everything must be contactless, thus we are attempting to create a Smart Dustbin that is contactless.
+* Intelligent Garbage Bin Using Arduino, Ultrasonic Sensor, and Servo Motor
+* When a person wants to dispose of trash in a garbage can, the garbage can's lid will open automatically and without human intervention.
+* In this Corona pandemic, everything must be contactless, thus we are attempting to create a Smart Dustbin that is contactless.
+* This Smart Dustbin detects a person or object using an Ultrasonic Sensor that communicates with a Servo Motor using an Arduino Uno. When a person approaches a Smart Dustbin, the Dustbin Cap will automatically open for waste disposal and then close after a period of time.
 
-This Smart Dustbin detects a person or object using an Ultrasonic Sensor that communicates with a Servo Motor using an Arduino Uno. When a person approaches a Smart Dustbin, the Dustbin Cap will automatically open for waste disposal and then close after a period of time.
 <p align="center">
 <img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />
 </p>
