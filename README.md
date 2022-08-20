@@ -144,8 +144,10 @@ Restaurant Management System was designed for managing customer names, bills, ti
 </p>
 
 > Project 9: Voice Assistant Portfolio
-- Based on complete HTML, JavaScript & CSS
-Python was only used for hosting the site
+
+- Based on complete HTML, JavaScript & CSS, Python was only used for hosting the site
+- A portfolio website includes professional information about an individual or firm, as well as a presentation of the individual's or company's work. In the age of artificial intelligence, I decided to create a portfolio to which we can communicate and which can respond on my behalf. 
+- This website's background has a soul-like appearance, giving the impression that you are talking with live technology. I also included the possibility of altering the voice assistant's accent.
 
 - View the webapp on : https://rugved-app.herokuapp.com/
 <p align="center">
