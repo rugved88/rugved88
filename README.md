@@ -151,7 +151,7 @@ Restaurant Management System was designed for managing customer names, bills, ti
 - A portfolio website includes professional information about an individual or firm, as well as a presentation of the individual's or company's work. In the age of artificial intelligence, I decided to create a portfolio to which we can communicate and which can respond on my behalf. 
 - This website's background has a soul-like appearance, giving the impression that you are talking with live technology. I also included the possibility of altering the voice assistant's accent.
 
-- View the webapp on : https://rugved-app.herokuapp.com/
+- View the webapp on : https://voice-assistant-portfolio.el.r.appspot.com/
 <p align="center">
  <img align="center" alt="codeSTACKr.com" src="images/p9.png" />
  </p>
@@ -159,8 +159,8 @@ Restaurant Management System was designed for managing customer names, bills, ti
 # And Many More...
 ## Want to know more about me follow me on instagram.
 
-[website]:  https://rugved-app.herokuapp.com/
-[course]:  https://rugved-app.herokuapp.com/
+[website]:  https://voice-assistant-portfolio.el.r.appspot.com/
+[course]:   https://voice-assistant-portfolio.el.r.appspot.com/
 [twitter]: https://twitter.com/rugved88
 [youtube]: https://www.youtube.com/channel/UCXXXXWBJXT_bVsKF8sBZDTg
 [instagram]: https://www.instagram.com/jarvis_004/
