@@ -1,6 +1,6 @@
 # Hi there, I'm Rugved Chavan - aka [Jarvis08][website] 👋
 
-# Please Cheack out my website. Click here --> [![Website](https://img.shields.io/website?label=rugved.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](([https://voice-assistant-portfolio.el.r.appspot.com/](https://mypersonalwebsite-376723.el.r.appspot.com/))) 
+# Please Cheack out my website. Click here --> [![Website](https://img.shields.io/website?label=rugved.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](([https://mypersonalwebsite-376723.el.r.appspot.com/](https://mypersonalwebsite-376723.el.r.appspot.com/))) 
 
 ## As a highly motivated individual with a passion for Artificial Intelligence, Machine Learning, Internet of Things, and Robotics, I am eager to bring my technical skills and ability to provide optimized solutions to real-world problems to a dynamic and challenging environment.
 ## I have three design patents (published) and a high-impact factor journal paper to my credit. I have completed my internships in major companies like Mahindra, and Bristlecone Inc and as well as an academic internship at the National University of Singapore. I am now seeking the opportunity to further my career as an IT Professional Intern and am eager to contribute to a company that values hard work and offers opportunities for growth.
