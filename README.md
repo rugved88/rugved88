@@ -1,8 +1,7 @@
 # Hi there, I'm Rugved Chavan - aka [Jarvis08][website] 👋
 
 # Please Cheack out my website. Click here --> 
-[![Website](http://img.shields.io/website?label=Rugved Website&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mypersonalwebsite-376723.el.r.appspot.com/)
-[![Website](http://img.shields.io/website?label=enbiomatric.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://enbiomatric.in)
+[![Website](http://img.shields.io/website?label=RugvedWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mypersonalwebsite-376723.el.r.appspot.com/)
 
 
 ## As a highly motivated individual with a passion for Artificial Intelligence, Machine Learning, Internet of Things, and Robotics, I am eager to bring my technical skills and ability to provide optimized solutions to real-world problems to a dynamic and challenging environment.
