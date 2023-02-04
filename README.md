@@ -1,10 +1,11 @@
 # Hi there, I'm Rugved Chavan - aka [Jarvis08][website] 👋
-[![Website](https://img.shields.io/website?label=rugved.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]((https://voice-assistant-portfolio.el.r.appspot.com/)) 
 
-## Aspiring AI / ML / IoT / Robotics Specialist Equipped with good technical skills, focused on providing optimized solutions to real-world problems. 
-## I have three design patents (published) and a high-impact factor journal paper to my credit. I have completed my internships in major companies like Mahindra, and Bristlecone Inc and as well as an academic internship at the National University of Singapore. I am a motivated individual seeking the position of IT Professional intern, intent on working in a challenging and dynamic environment that offers opportunities for growth. 
+## Please Cheack out my website [![Website](https://img.shields.io/website?label=rugved.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](([https://voice-assistant-portfolio.el.r.appspot.com/](https://mypersonalwebsite-376723.el.r.appspot.com/))) 
 
-## I have expertise in multiple interdisciplinary fields such as Artificial Intelligence, 3D designing, web development, and automobiles. My research interest includes but not limited to Data Science, IoT, IoMT, IIoT, Robotics, Machine learning etc. !!!
+## As a highly motivated individual with a passion for Artificial Intelligence, Machine Learning, Internet of Things, and Robotics, I am eager to bring my technical skills and ability to provide optimized solutions to real-world problems to a dynamic and challenging environment.
+## I have three design patents (published) and a high-impact factor journal paper to my credit. I have completed my internships in major companies like Mahindra, and Bristlecone Inc and as well as an academic internship at the National University of Singapore. I am now seeking the opportunity to further my career as an IT Professional Intern and am eager to contribute to a company that values hard work and offers opportunities for growth.
+
+## My expertise extends across multiple interdisciplinary fields, including Artificial Intelligence, 3D design, web development, and automobiles. My research interests are diverse and encompass Data Science, Internet of Things, Internet of Medical Things, Industry 4.0, Robotics, and Machine Learning.
 
 ---
 <p align="center">
