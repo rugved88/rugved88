@@ -2,6 +2,7 @@
 
 ## Please Cheack out my website. [![Website](http://img.shields.io/website?label=RugvedWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mypersonalwebsite-376723.el.r.appspot.com/)
 
+----
 
 ## As a highly motivated individual with a passion for Artificial Intelligence, Machine Learning, Internet of Things, and Robotics, I am eager to bring my technical skills and ability to provide optimized solutions to real-world problems to a dynamic and challenging environment.
 ## I have three design patents (published) and a high-impact factor journal paper to my credit. I have completed my internships in major companies like Mahindra, and Bristlecone Inc and as well as an academic internship at the National University of Singapore. I am now seeking the opportunity to further my career as an IT Professional Intern and am eager to contribute to a company that values hard work and offers opportunities for growth.
@@ -84,12 +85,15 @@
 ➡️ [more videos...](https://youtube.com/codestackr)
 
 ----
-# Projects: [Highly recommended to watch Youtube videos!!]
+# Projects:
+
 Public Repo
 > Project 1: Robot tracking via central monitoring system.
 <p align="left">
   <a href="https://github.com/rugved88/Robot-tracking-via-central-monitoring-system"><img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rugved88&repo=Robot-tracking-via-central-monitoring-system&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
 </p>
+
+----
 
 Private Repos
 <!--
@@ -99,6 +103,8 @@ Private Repos
 
 Looking at the future trend we have designed Smart AI Glasses that can be commercialized or can be used in a highly restricted area for securing the area from untheorized identity. Features of our smart glasses are smart notifications, navigation assistance, a Health monitoring system, identity detections. The main motive of our project is to launch these glasses at an affordable price with high reliability.
 -->
+
+----
 
 > Project 3: Plant Health Monitoring System. (IoT, Data Science, Web Dev)
 
@@ -110,15 +116,20 @@ System will Monitor Soil moisture and light intensity in real-time using moistur
 [<img align="left" alt="codeSTACKr.com" src="images/p4.png" />][website]
 [![Website](http://img.shields.io/website?label=enbiomatric.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://enbiomatric.in)
 
+----
 
 > Project 5: Universal Diseases Screening System (UDSS). (ML, Frontend, Flask)
 
 This project aims to bring Universal Diseases Screening System to all citizens. This project is envisaged to bring all the medical records and history to one common platform. So that proper diagnosis of the illness is achieved with very little or no trouble. we are using Deep Learning and Machine Learning algorithms to detect and diagnose diseases based on lab reports. User can upload Chest X-ray Images/CT-Scan to detect Covid-19, Pneunmonia or Brain Tumor.
 
+----
+
 > Project 6: Restaurant Management System (Frontend, Mysql, Node.js)
 
 [<img align="left" alt="codeSTACKr.com" src="images/p5.png" />][website]
 Restaurant Management System was designed for managing customer names, bills, time of transactions and available food items. This system will get installed on the restaurant counter by giving a user interface on website. Further to give more analytical data to the owner, system will also provide data like which is the highest selling food item, today's total money collected, this month total money collected etc. Data generated at the database per day is huge, to solve this problem we will be using big data for storage. Further to get predictions about what will be tomorrows total, next month total etc, tensorflow.js is implemented for machine learning algorithms.
+
+----
 
 > Project 7: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
 
@@ -128,6 +139,7 @@ Restaurant Management System was designed for managing customer names, bills, ti
 <img align="center" alt="codeSTACKr.com" src="images/p6ii.png" />
 </p>
 
+----
 
 * Computer Vision Embeded for Owner detection
 * Voice Assistance
@@ -135,6 +147,7 @@ Restaurant Management System was designed for managing customer names, bills, ti
 * Controls Smart Home Devices like smart lights, fans etc
 * R.O.S techonlogy with smart room maping and multiple robot control
 
+----
 
 > Project 8: Smart Dustbin (IoT -Arduino)
 
@@ -146,6 +159,8 @@ Restaurant Management System was designed for managing customer names, bills, ti
 <p align="center">
 <img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />
 </p>
+
+----
 
 > Project 9: Voice Assistant Portfolio
 
