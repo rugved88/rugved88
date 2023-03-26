@@ -1,6 +1,6 @@
 # Hi, I'm Rugved Chavan - aka [Jarvis08][website] 👋
 
-## Check out my website! [[Website]](https://rugved.pythonanywhere.com/projects)
+## Check out my website! [Website](https://rugved.pythonanywhere.com/projects)
 
 ---
 
