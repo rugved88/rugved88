@@ -1,6 +1,6 @@
 # Hi, I'm Rugved Chavan - aka [Jarvis08][website] 👋
 
-## Check out my website! [![Website](https://img.shields.io/website?label=RugvedWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mypersonalwebsite-376723.el.r.appspot.com/)
+## Check out my website! [[Website]](https://rugved.pythonanywhere.com/projects)
 
 ---
 
@@ -174,7 +174,7 @@ Restaurant Management System was designed for managing customer names, bills, ti
  <img align="center" alt="codeSTACKr.com" src="images/p9.png" />
  </p>
 
-## And Many More... Click here --> [![Website](http://img.shields.io/website?label=RugvedWebsite&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mypersonalwebsite-376723.el.r.appspot.com/)
+## And Many More... Click here --> [Website](https://rugved.pythonanywhere.com/projects)
 
 ## Want to know more about me follow me on instagram.
 
