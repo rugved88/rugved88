@@ -16,7 +16,7 @@
 
 ---
 <ul align="center">
-<li>🌱 I’m currently learning everything 🤣</li>
+<li>🌱 I’m currently learning Mastering MAchine Learning</li>
 <li> 👯 I’m looking to collaborate with other research scholars </li>
 <li> 🥅 2022 Goals: Contribute more to the field of research and development </li>
 <li> ⚡ Fun fact: For me, coding is like art – providing optimized solutions with creativity. </li>
