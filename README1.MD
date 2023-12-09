@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/rugved.png" alt="Rugved Chavan" style="width: 200px; height: 200px" />
+  <img src="images/rugved.png" alt="Rugved Chavan" style="width: 250px; height: 270px" />
 </div>
 
 # Hi, I'm Rugved Chavan 👋
