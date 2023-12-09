@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/rugved.png" alt="Rugved Chavan" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" />
+  <img src="images/rugved.png" alt="Rugved Chavan" style="width: 100px; height: 250px; object-fit: cover;" />
 </div>
 
 # Hi, I'm Rugved Chavan 👋
