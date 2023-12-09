@@ -1,190 +1,119 @@
-# Hi, I'm Rugved Chavan - aka [Jarvis08][website] 👋
+<div align="center">
+  <img src="images/rugved.png" alt="Rugved Chavan" style="width: 250px; height: 270px" />
+</div>
 
-## Check out my website! [Website](https://rugved.pythonanywhere.com/projects)
+# Hi, I'm Rugved Chavan 👋
 
----
+🚀 Welcome to my GitHub profile! I'm deeply involved in AI, Machine Learning, IoT, Software Development SDE and Robotics, aiming to innovate and solve real-world challenges.
+I am Looking for Internships 2024 & Full-time 2025!
 
-## I am a highly motivated individual with a passion for Artificial Intelligence, Machine Learning, Internet of Things, and Robotics. My goal is to bring my technical skills and ability to provide optimized solutions to real-world problems in a dynamic and challenging environment.
-## I have three published design patents and a high-impact factor journal paper to my credit. I have completed internships at major companies like Mahindra and Bristlecone Inc, as well as an academic internship at the National University of Singapore. I am now seeking opportunities to further my career as an IT Professional Intern and contribute to a company that values hard work and offers growth opportunities.
+🌐 **LinkedIn**: [Rugved's Profile](https://www.linkedin.com/in/rugved-chavan-9a09b3209/)
 
-## My expertise spans multiple interdisciplinary fields, including Artificial Intelligence, 3D design, web development, and automobiles. My research interests are diverse and encompass Data Science, Internet of Things, Internet of Medical Things, Industry 4.0, Robotics, and Machine Learning.
+## About Me
+- 🎓 **Education**: MSc in Computer Science, UVA | B.Tech. in Computer & Communication, Manipal University Jaipur.
+- 💻 **Experience**: Graduate Research Assistant, UVA | Data Science Intern, SAP | Internships at Bristlecone Inc, NUS.
+- 🏅 **Achievements**: Multiple patents, journal/conference papers | 'Best Performer 2022', NUS.
+- 🔍 **Expertise**: AI, ML, Software Development, Generative AI in Biomedicine and 3D Design.
+- 🔬 **Research Interests**: Machine Learning, AI in Biomedicine Data Science, IoT and Robotics.
 
----
-<p align="center">
- <img align="center" alt="codeSTACKr.com" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" />
-</p>
+## Current Learning & Goals
+- 🌱 **Internships 2024 | Full-time 2025**: Seeking challenging opportunities in Software Development SDE, AI, ML, Genrative AI and IoT.
+- 👯 **Collaboration**: Keen on working with research scholars and tech professionals.
 
----
-<ul align="center">
-<li>🌱 I’m currently learning Mastering MAchine Learning</li>
-<li> 👯 I’m looking to collaborate with other research scholars </li>
-<li> 🥅 2022 Goals: Contribute more to the field of research and development </li>
-<li> ⚡ Fun fact: For me, coding is like art – providing optimized solutions with creativity. </li>
-</ul>
+## Connect with Me
 
-### Connect with me:
+- Mail : rugvedm12@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/rugved-chavan-9a09b3209/)
+- [YouTube](https://www.youtube.com/channel/UCXXXXWBJXT_bVsKF8sBZDTg)
+- [Instagram](https://www.instagram.com/jarvis_004/)
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+## Recent Research Publications
 
-<br />
+Here are some of my latest research papers:
 
-### Languages and Tools:
+1. **[KUB-UNet: segmentation of organs of urinary system from a KUB X-ray image](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uyae7NoAAAAJ&citation_for_view=Uyae7NoAAAAJ:u-x6o8ySG0sC)** - This study introduces KUB-UNet, a novel AI model for segmenting urinary system organs in KUB X-ray images. It addresses the underexplored area of kidney, ureter, and bladder segmentation, leveraging a unique dataset and enhancing diagnostic accuracy.
 
-[<img align="left" alt="Python" width="46px" src="https://www.pinclipart.com/picdir/middle/539-5391503_python-programming-language-computer-programming-computer-transparent-background.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Fask" width="66px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" />][cssplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Fusion360" width="30px" src="https://www.mysolidbox.com/wp-content/uploads/2017/02/Autodesk-Fusion-360-logo.png" />][webdevplaylist]
+2. **[Forecasting of mobile network traffic and spatio–temporal analysis using modLSTM](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=Uyae7NoAAAAJ&citation_for_view=Uyae7NoAAAAJ:UeHWp8X0CEIC)** - This paper presents a modified LSTM model for predicting mobile network traffic. It significantly improves forecast accuracy and efficiency compared to traditional models, showcasing potential for real-time network traffic management and decision-making.
 
-<br />
-<br />
+3. **[CrowdDCNN: Deep convolution neural network for real-time crowd counting on IoT edge](https://www.sciencedirect.com/science/article/abs/pii/S0952197623012733)** - The paper proposes CrowdDCNN, an advanced neural network model for real-time crowd counting. It notably reduces mean square error and model size, making it suitable for low-computation devices, and introduces the 'NoLag' algorithm for efficient live crowd counting.
 
----
 
-## Stats:
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rugved88&show_icons=true&theme=tokyonight&line_height=27" alt="Gaurav's github stats" />
+For more of my publications, visit my [Google Scholar profile](https://scholar.google.com/citations?user=Uyae7NoAAAAJ&hl=en).
 
-<!--   https://activity-graph.herokuapp.com/graph?username=ctrl-gaurav&theme=react-dark&bg_color=20232a -->
-<!--   theme=jolly&hide_border=true -->
-</p>
-<p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rugved88&layout=compact&theme=tokyonight&count_private=true"/>
-  </a>
-</p>
 
-<p align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=rugved88&theme=redical&bg_color=0B0826" width="100%"/>
-  </a>
-</p>
+## Featured Projects
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rugved88&theme=tokyonight"/>
-  </a>
-</p>
+### 1. [Fast-Processing Bi-Modal Large Language (LLM) and Vision Model](https://github.com/rugved88/Bi-Modalities-Large-Language-Model-Text-Image-)
+**Challenge:** Enhancing AI's multimodal processing abilities, focusing on text and image modalities.  
+**Objective Achieved:** Developed a bi-modal model using CLIP, GPT-3 LLM, and custom synchronization algorithm for content generation across text and image modalities, improving content quality and inference time.
 
----
-### 📺 Latest YouTube Videos
+### 2. [Graph-Based Optimization for Controlling and Monitoring Multiple Delivery Robots via External Camera](https://github.com/rugved88/Robot-tracking-via-central-monitoring-system)
+**Challenge:** Efficiently controlling and monitoring delivery robots to minimize delivery time and cost.  
+**Objective Achieved:** Implemented a hybrid BFS algorithm in robots for optimal pathfinding, utilized TCP for real-time instruction transmission, and employed computer vision for grid detection.
 
-<!-- YOUTUBE:START -->
-- [Robot Design | Cozmo Robot imitation | Forklift design Fusion 360](https://www.youtube.com/watch?v=Zsgi15xlaz4)
-- [Face Tracing Robot using Raspberry Pi | OpenCV | Computer Vision | Fusion 360](https://www.youtube.com/watch?v=jaQxsuHskcA)
-- [Google Voice Assistant on Raspberry Pi with custom commands and GPIO control](https://www.youtube.com/watch?v=czCzjse3aYU)
-- [How to design Complete Drone || Fusion 360 Design || Raspberry Pi4 Extension](https://www.youtube.com/watch?v=WWXdS_8P8mI)
-- [The Robotic AI Arm Trailer || Raspberry pi project || Fusion 360 || Prototype](https://www.youtube.com/watch?v=E4nQwieZy8k)
-<!-- YOUTUBE:END -->
+### 3. [Dynamic Display Adjustments: Using Real-time User Positioning and Eye Monitoring for Optimal Screen Settings](https://www.youtube.com/watch?v=4bUi90hpe7w)
+**Challenge:** The primary challenge addressed in this research is the static nature of laptop display settings, which fail to adapt to varying user proximity, position, and application requirements. This oversight in Human-Computer Interaction (HCI) leads to suboptimal user experiences and can potentially affect ocular well-being.  
+**Objective Achieved:** 
+1. Dynamic Adaptation: Utilize the laptop's camera for real-time adjustment of display settings based on user distance and orientation, enhancing user experience.
+2. Ocular Health Focus: Monitor visual strain symptoms to adjust screen settings, such as blue light filtration, for improved eye comfort and well-being.
+3. Automated User-Centric Modes: Implement template-based configurations like "Research Mode" for optimized and personalized digital workspace setup.
 
-➡️ [more videos...](https://youtube.com/codestackr)
+### 4. [Plant Health Monitoring System](https://www.youtube.com/watch?v=vZWT_qV5Bj4)
+**Challenge:** Real-time monitoring and adjustment of environmental conditions for optimal plant health.  
+**Objective Achieved:** Created a system to monitor soil moisture and light intensity, adjusting levels as needed for plant health, with remote access to data.
 
-----
-# Projects:
+<!-- ### 5. [EnBioMatric.in](http://enbiomatric.in)
+**Challenge:** [Brief description of the challenge]  
+**Objective Achieved:** [Brief summary of the objectives achieved] -->
 
-Public Repo
-> Project 1: Robot tracking via central monitoring system.
-<p align="left">
-  <a href="https://github.com/rugved88/Robot-tracking-via-central-monitoring-system"><img width="262" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=rugved88&repo=Robot-tracking-via-central-monitoring-system&theme=tokyonight&show_icons=true" alt="github-readme-stats"></a>
-</p>
+<!-- ### 5. [Universal Diseases Screening System](https://github.com/rugved88/Restaurant-app1)
+**Challenge:** Create a Data  
+**Objective Achieved:** [Brief summary of the objectives achieved] -->
 
-----
+### 5. [Restaurant Management System](#)
+**Challenge:** Create a Relational Data Base Management Project using SQL and NodeJS  
+**Objective Achieved:** This system is a comprehensive solution for managing restaurant operations, including tracking customer names, bills, transaction times, and food item availability. Designed for installation at restaurant counters, it features a user-friendly web interface. The system provides valuable analytics, such as identifying the highest selling food items and summarizing daily and monthly revenue. To handle the vast amount of data generated, we employ big data storage techniques. Additionally, we leverage TensorFlow.js for machine learning algorithms to forecast future sales trends, like predicting the next day's or month's revenue. This approach enhances operational efficiency and decision-making for restaurant owners.
 
-Private Repos
-<!--
-> Project 2: Smart AI Glasses (IoT, Computer Vision, Fusion 360)
+### 8. [Multi-Featured Home and Work Automation Robot](https://www.youtube.com/watch?v=jaQxsuHskcA)
+**Objective Achieved:** In this project, we developed a sophisticated smart home automation system that combines computer vision for owner detection, voice assistance, and environmental sensors (temperature, humidity, smoke) with smart notifications. The system enables control of smart home devices like lights and fans through a user-friendly interface. Leveraging the Robot Operating System (ROS) for intelligent room mapping and multi-robot coordination, it also includes a DIY 4WD face-tracking robot powered by Raspberry Pi, OpenCV, and Fusion 360. This integrated approach results in a secure, efficient, and interactive smart home experience.
 
-[<img align="left" alt="codeSTACKr.com" src="images/p2.jpeg" />][website]
+<div align="center">
+  <img src="images/p6ii.png" alt="Home Automation System" width="50%" />
+</div>
 
-Looking at the future trend we have designed Smart AI Glasses that can be commercialized or can be used in a highly restricted area for securing the area from untheorized identity. Features of our smart glasses are smart notifications, navigation assistance, a Health monitoring system, identity detections. The main motive of our project is to launch these glasses at an affordable price with high reliability.
--->
-
-----
-
-> Project 3: Plant Health Monitoring System. (IoT, Data Science, Web Dev)
-
-[<img align="left" alt="codeSTACKr.com" src="images/p3.png" />][website]
-System will Monitor Soil moisture and light intensity in real-time using moisture sensor and intensity sensor and their adjust to the levels suitable for plant. You can access all the parameters remotely.
-
-> Project 4: EnBioMatric.in (Flask, HTML, CSS)
-
-[<img align="left" alt="codeSTACKr.com" src="images/p4.png" />][website]
-[![Website](http://img.shields.io/website?label=enbiomatric.in&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://enbiomatric.in)
-
-----
-
-> Project 5: Universal Diseases Screening System (UDSS). (ML, Frontend, Flask)
-
-This project aims to bring Universal Diseases Screening System to all citizens. This project is envisaged to bring all the medical records and history to one common platform. So that proper diagnosis of the illness is achieved with very little or no trouble. we are using Deep Learning and Machine Learning algorithms to detect and diagnose diseases based on lab reports. User can upload Chest X-ray Images/CT-Scan to detect Covid-19, Pneunmonia or Brain Tumor.
-
-----
-
-> Project 6: Restaurant Management System (Frontend, Mysql, Node.js)
-
-[<img align="left" alt="codeSTACKr.com" src="images/p5.png" />][website]
-Restaurant Management System was designed for managing customer names, bills, time of transactions and available food items. This system will get installed on the restaurant counter by giving a user interface on website. Further to give more analytical data to the owner, system will also provide data like which is the highest selling food item, today's total money collected, this month total money collected etc. Data generated at the database per day is huge, to solve this problem we will be using big data for storage. Further to get predictions about what will be tomorrows total, next month total etc, tensorflow.js is implemented for machine learning algorithms.
-
-----
-
-> Project 7: Multi Featured Robot for home and work automaton (on JARVIS concept) (Computer Vision, NLP, Google Services)
+### 9. [Smart Dustbin](#)
+**Challenge:** Creating a contactless, intelligent waste disposal system.  
+**Objective Achieved:** Developed a Smart Dustbin using Arduino and Ultrasonic Sensors for contactless operation, enhancing hygiene and convenience.
 
 <p align="center">
-<img align="center" width=100% alt="codeSTACKr.com" src="images/p6i.png" />
-<br> </br>
-<img align="center" alt="codeSTACKr.com" src="images/p6ii.png" />
+<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" width="50%"  height ="50%"  />
 </p>
 
-----
-
-* Computer Vision Embeded for Owner detection
-* Voice Assistance
-* Temperature/Humidity/Smoke Sensors with Smart Notifications
-* Controls Smart Home Devices like smart lights, fans etc
-* R.O.S techonlogy with smart room maping and multiple robot control
-
-----
-
-> Project 8: Smart Dustbin (IoT -Arduino)
-
-* Intelligent Garbage Bin Using Arduino, Ultrasonic Sensor, and Servo Motor
-* When a person wants to dispose of trash in a garbage can, the garbage can's lid will open automatically and without human intervention.
-* In this Corona pandemic, everything must be contactless, thus we are attempting to create a Smart Dustbin that is contactless.
-* This Smart Dustbin detects a person or object using an Ultrasonic Sensor that communicates with a Servo Motor using an Arduino Uno. When a person approaches a Smart Dustbin, the Dustbin Cap will automatically open for waste disposal and then close after a period of time.
+### 10. [Voice Assistant Portfolio](https://voice-assistant-portfolio.el.r.appspot.com/)
+**Challenge:** Designing an interactive and AI-integrated personal portfolio website.  
+**Objective Achieved:** Created a responsive portfolio website with an AI voice assistant, offering a unique and engaging user experience.
 
 <p align="center">
-<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" />
-</p>
-
-----
-
-> Project 9: Voice Assistant Portfolio
-
-- Based on complete HTML, JavaScript & CSS, Python was only used for hosting the site
-- A portfolio website includes professional information about an individual or firm, as well as a presentation of the individual's or company's work. In the age of artificial intelligence, I decided to create a portfolio to which we can communicate and which can respond on my behalf. 
-- This website's background has a soul-like appearance, giving the impression that you are talking with live technology. I also included the possibility of altering the voice assistant's accent.
-
-- View the webapp on : https://voice-assistant-portfolio.el.r.appspot.com/
-<p align="center">
- <img align="center" alt="codeSTACKr.com" src="images/p9.png" />
+ <img align="center" alt="codeSTACKr.com" src="images/p9.png" width="50%" />/>
  </p>
 
-## And Many More... Click here --> [Website](https://rugved.pythonanywhere.com/projects)
+### 📺 Latest YouTube Videos
 
-## Want to know more about me follow me on instagram.
+- [Fast-Processing Bi-Modal Large Language and Vision Model](https://www.youtube.com/watch?v=bDb0FkX1tLI)
+- [Face Tracing Robot using Raspberry Pi | OpenCV | Computer Vision | Fusion 360](https://www.youtube.com/watch?v=jaQxsuHskcA)
+- [More Videos...](https://youtube.com/codestackr)
 
-[website]:  https://voice-assistant-portfolio.el.r.appspot.com/
-[course]:   https://voice-assistant-portfolio.el.r.appspot.com/
-[twitter]: https://twitter.com/rugved88
-[youtube]: https://www.youtube.com/channel/UCXXXXWBJXT_bVsKF8sBZDTg
-[instagram]: https://www.instagram.com/jarvis_004/
-[linkedin]: https://www.linkedin.com/in/rugved-chavan-9a09b3209/
-[webdevplaylist]: https://www.youtube.com/channel/UCXXXXWBJXT_bVsKF8sBZDTg
-[jsplaylist]: https://www.youtube.com/channel/UCXXXXWBJXT_bVsKF8sBZDTg
-[cssplaylist]: https://www.youtube.com/channel/UCXXXXWBJXT_bVsKF8sBZDTg
-[reactplaylist]: https://www.youtube.com/channel/UCXXXXWBJXT_bVsKF8sBZDTg
+
+## Languages and Tools
+
+- Python, C, HTML5, CSS3, Flask, Node.js, SQL, MySQL, Git, GitHub, Fusion360
+
+## My GitHub Stats
+
+![Rugved's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rugved88&show_icons=true&theme=tokyonight)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rugved88&layout=compact&theme=tokyonight) -->
+
+
+---
+
+**Want to know more? Follow me on [Instagram](https://www.instagram.com/jarvis_004/).**
