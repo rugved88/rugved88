@@ -86,7 +86,7 @@ For more of my publications, visit my [Google Scholar profile](https://scholar.g
 **Objective Achieved:** Developed a Smart Dustbin using Arduino and Ultrasonic Sensors for contactless operation, enhancing hygiene and convenience.
 
 <p align="center">
-<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" width="50%"  height ="50%"  />
+<img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" width="10%"  height ="10%"  />
 </p>
 
 ### 8. [Voice Assistant Portfolio](https://voice-assistant-portfolio.el.r.appspot.com/)
