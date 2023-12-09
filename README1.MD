@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="URL_of_Your_Photo" alt="Rugved Chavan" style="border-radius: 50%;" />
+  <img src="images/rugved.png" alt="Rugved Chavan" style="border-radius: 50%;" />
 </div>
 
 # Hi, I'm Rugved Chavan 👋
