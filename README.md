@@ -74,14 +74,14 @@ For more of my publications, visit my [Google Scholar profile](https://scholar.g
 **Challenge:** Create a Relational Data Base Management Project using SQL and NodeJS  
 **Objective Achieved:** This system is a comprehensive solution for managing restaurant operations, including tracking customer names, bills, transaction times, and food item availability. Designed for installation at restaurant counters, it features a user-friendly web interface. The system provides valuable analytics, such as identifying the highest selling food items and summarizing daily and monthly revenue. To handle the vast amount of data generated, we employ big data storage techniques. Additionally, we leverage TensorFlow.js for machine learning algorithms to forecast future sales trends, like predicting the next day's or month's revenue. This approach enhances operational efficiency and decision-making for restaurant owners.
 
-### 8. [Multi-Featured Home and Work Automation Robot](https://www.youtube.com/watch?v=jaQxsuHskcA)
+### 6. [Multi-Featured Home and Work Automation Robot](https://www.youtube.com/watch?v=jaQxsuHskcA)
 **Objective Achieved:** In this project, we developed a sophisticated smart home automation system that combines computer vision for owner detection, voice assistance, and environmental sensors (temperature, humidity, smoke) with smart notifications. The system enables control of smart home devices like lights and fans through a user-friendly interface. Leveraging the Robot Operating System (ROS) for intelligent room mapping and multi-robot coordination, it also includes a DIY 4WD face-tracking robot powered by Raspberry Pi, OpenCV, and Fusion 360. This integrated approach results in a secure, efficient, and interactive smart home experience.
 
 <div align="center">
   <img src="images/p6ii.png" alt="Home Automation System" width="50%" />
 </div>
 
-### 9. [Smart Dustbin](#)
+### 7. [Smart Dustbin](#)
 **Challenge:** Creating a contactless, intelligent waste disposal system.  
 **Objective Achieved:** Developed a Smart Dustbin using Arduino and Ultrasonic Sensors for contactless operation, enhancing hygiene and convenience.
 
@@ -89,7 +89,7 @@ For more of my publications, visit my [Google Scholar profile](https://scholar.g
 <img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" width="50%"  height ="50%"  />
 </p>
 
-### 10. [Voice Assistant Portfolio](https://voice-assistant-portfolio.el.r.appspot.com/)
+### 8. [Voice Assistant Portfolio](https://voice-assistant-portfolio.el.r.appspot.com/)
 **Challenge:** Designing an interactive and AI-integrated personal portfolio website.  
 **Objective Achieved:** Created a responsive portfolio website with an AI voice assistant, offering a unique and engaging user experience.
 
