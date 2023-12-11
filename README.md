@@ -58,7 +58,7 @@ For more of my publications, visit my [Google Scholar profile](https://scholar.g
 2. Ocular Health Focus: Monitor visual strain symptoms to adjust screen settings, such as blue light filtration, for improved eye comfort and well-being.
 3. Automated User-Centric Modes: Implement template-based configurations like "Research Mode" for optimized and personalized digital workspace setup.
 
-### 4. [Plant Health Monitoring System](https://www.youtube.com/watch?v=vZWT_qV5Bj4)
+### 4. [Plant Health Monitoring System](https://github.com/rugved88/Plant-health-monitering-system/tree/main)
 **Challenge:** Real-time monitoring and adjustment of environmental conditions for optimal plant health.  
 **Objective Achieved:** Created a system to monitor soil moisture and light intensity, adjusting levels as needed for plant health, with remote access to data.
 
