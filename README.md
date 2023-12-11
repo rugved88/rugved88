@@ -89,14 +89,6 @@ For more of my publications, visit my [Google Scholar profile](https://scholar.g
 <img align="center" alt="codeSTACKr.com" height = '400px' src="images/p7.gif" width="50%"  height ="50%"  />
 </p>
 
-### 8. [Voice Assistant Portfolio](https://voice-assistant-portfolio.el.r.appspot.com/)
-**Challenge:** Designing an interactive and AI-integrated personal portfolio website.  
-**Objective Achieved:** Created a responsive portfolio website with an AI voice assistant, offering a unique and engaging user experience.
-
-<p align="center">
- <img align="center" alt="codeSTACKr.com" src="images/p9.png" width="50%" />/>
- </p>
-
 ### 📺 Latest YouTube Videos
 
 - [Fast-Processing Bi-Modal Large Language and Vision Model](https://www.youtube.com/watch?v=bDb0FkX1tLI)
