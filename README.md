@@ -10,7 +10,7 @@ I am Looking for Internships 2024 & Full-time 2025!
 🌐 **LinkedIn**: [Rugved's Profile](https://www.linkedin.com/in/rugved-chavan-9a09b3209/)
 
 ## About Me
-- 🎓 **Education**: MSc in Computer Science, UVA | B.Tech. in Computer & Communication, Manipal University Jaipur.
+- 🎓 **Education**: MSc in Computer Science, UVA | B.Tech. in Computer & Communication Engineering , Manipal University Jaipur.
 - 💻 **Experience**: Graduate Research Assistant, UVA | Data Science Intern, SAP | Internships at Bristlecone Inc, NUS.
 - 🏅 **Achievements**: Multiple patents, journal/conference papers | 'Best Performer 2022', NUS.
 - 🔍 **Expertise**: AI, ML, Software Development, Generative AI in Biomedicine and 3D Design.
